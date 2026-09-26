@@ -29,4 +29,4 @@ Patrick gibt frei (Pull Request) oder lehnt ab. Das ist der einzige Weg, wie sic
 ## Status
 
 Phase: **Manueller Pilot** (Start 26.09.2026). Nächste Schritte siehe `BACKLOG.md`.
-Quellenstand: `research/2026-09-26-evidenzpruefung-summary.md`.
+Quellenstand: `research/`. Zuerst lesen: `research/2026-09-26-abgleich-claude-chatgpt.md` (Abgleich beider Recherchen, offene Entscheidungen).

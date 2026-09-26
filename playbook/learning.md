@@ -53,3 +53,5 @@ und nach jedem Zyklus hier als Erfahrungswert ergänzt.
 - [ ] Anzeige und Landingpage inhaltlich deckungsgleich
 - [ ] Lifetime-Budget und Kontolimit gesetzt
 - [ ] Vorab-Festlegung committet
+- [ ] Impressum (§ 5 DDG) und Datenschutzerklärung passend zu den tatsächlichen Datenflüssen
+- [ ] Kampagnenstatus und Zeitplan explizit gesetzt (Pinterest-API kann sonst sofort aktivieren)

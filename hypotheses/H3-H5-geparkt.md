@@ -1,6 +1,6 @@
 # Geparkte Hypothesen
 
-Ausführliche Karten in der Evidenzprüfung vom 26.09.2026. Hier nur Status und Bedingung für die Wiederaufnahme.
+Ausführliche Karten in research/2026-09-26-claude-evidenzpruefung.md, Abschnitt 7. Hier nur Status und Bedingung für die Wiederaufnahme.
 
 | ID | Name | Score v0.1 | Status | Wiederaufnahme wenn |
 |---|---|---|---|---|

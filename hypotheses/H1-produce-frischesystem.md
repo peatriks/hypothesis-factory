@@ -8,7 +8,7 @@
 | Zielgruppe/Kaufkontext | 2- bis 4-Personen-Haushalte mit hohem Frischeanteil (Wochenmarkt, Bio-Kiste), Kauf nach Frust über verdorbene Beeren oder Kräuter |
 | Problem und bisherige Lösung | Verderb, Feuchtigkeit, Unsichtbarkeit im Gemüsefach. Bisher: Tüten, Originalschalen, Tupperware KlimaOase, OXO GreenSaver |
 | Beleglage (für / gegen) | Für: 35 % des vermeidbaren Haushaltsabfalls sind frisches Obst und Gemüse (BMEL/GfK 2020). Gegen: funktionale Lösungen für 15 bis 25 € existieren |
-| Value Proposition | "Obst und Gemüse bleiben sichtbar, trocken und länger frisch, in einem Set, das ins Gemüsefach passt statt es zu verstopfen." |
+| Value Proposition | "Obst und Gemüse bleiben sichtbar und trocken, in einem Set, das ins Gemüsefach passt statt es zu verstopfen." ("länger frisch" erst nach eigenem Test) |
 | Produktidee | 3 Behälter in zwei Grundflächen, herausnehmbarer Abtropfkorb, einstellbare Belüftung, optional Kräutereinsatz mit Wasserreservoir |
 | Differenzierung | Glas statt Kunststoff, Maßraster fürs Gemüsefach, kein Filter-Abo (oder bewusst mit Abo) |
 | Testpreis und Umfang | Arm A: 89 € für 3 Behälter + Kräutereinsatz. Arm B: 69 € |
@@ -21,4 +21,5 @@
 
 | Datum | Ereignis | Evidenz |
 |---|---|---|
-| 2026-09-26 | Karte angelegt | research/2026-09-26-evidenzpruefung-summary.md |
+| 2026-09-26 | Karte angelegt | research/2026-09-26-claude-evidenzpruefung.md |
+| 2026-09-26 | ChatGPT-Recherche stuft Gemüse nur als Alternative (C) ein: sehr starke Konkurrenz (Rotho Fresh Dynamic Box, OXO). Rang 1 umstritten | research/2026-09-26-abgleich-claude-chatgpt.md #1 |
