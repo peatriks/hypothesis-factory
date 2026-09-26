@@ -20,8 +20,8 @@ Details: `research/2026-09-26-abgleich-claude-chatgpt.md`
 | 1 | Tarif klären ("Claude Premium" = Team Premium Seat oder Max?), API-Key mit Ausgabenlimit anlegen | P | Automatisierung |
 | 2 | Review-Mining: 1- bis 3-Sterne-Reviews von etwa 10 Wettbewerbern clustern (Amazon.de, Reddit, Foren) | W | H4, Schärfung H1/H2 |
 | 3 | Wettbewerbsmatrix auf 30 bis 50 Einträge: beide Recherchen zusammenführen (u. a. IKEA 365+, Joseph Joseph, Rotho, Kilner, LocknLock, Pyrex neu aus ChatGPT), einheitliches Raster (Größe, Material, Footprint, Dichtung, Ersatzteile, UVP/Aktion). DE-Preise Caraway, OXO fehlen noch | W | Preisplausibilität |
-| 4 | Interviews je Job (Claude: 15 bis 20, ChatGPT: 10 bis 15 als Arbeitsziel), Mom-Test-Logik, für H6 Deckelinventar abfragen | P | Gate 1 |
-| 4a | Interviewleitfaden für H1, H2, H6 | W | #4 |
+| 4 | Interviews je Job (Claude: 15 bis 20, ChatGPT: 10 bis 15 als Arbeitsziel), Mom-Test-Logik, für H6 Deckelinventar abfragen. Vorher Gate-1-Schwellen im Leitfaden (Abschnitt 8) setzen | P | Gate 1 |
+| 4a | Interviewleitfaden für H1, H2, H6: Entwurf v0.1 in `interviews/leitfaden-h1-h2-h6.md`, nach den ersten 3 Interviews schärfen | W | #4 |
 | 4b | Käse: technischer Mechanismus für den Feuchte-Geruch-Kompromiss, Vergleich mit Kilner, Mepal, Rotho, Käsepapier | W, X (Produktentwickler) | H2 |
 | 5 | Anwalt: Template-Freigabe Konzeptseite, KI-Kennzeichnung, Reservierungsmodell | X | Live-Schaltung |
 | 6 | Shopify-Konzeptstore, Consent, Double Opt-in, Meta-Pixel nach Einwilligung | P | Test |
