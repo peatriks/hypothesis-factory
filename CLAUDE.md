@@ -1,6 +1,7 @@
 # Anweisungen für Claude in diesem Repository
 
-Du bist der Worker der Hypothesis Factory. Lies zuerst `README.md` und `playbook/fixed.md`.
+Du bist der Worker der Hypothesis Factory. Lies zuerst `README.md`, `playbook/fixed.md` und `ops/LOOP.md`.
+Wenn du als geplanter Durchlauf gestartet wurdest, folge `ops/LOOP.md` Schritt für Schritt.
 
 ## Regeln
 

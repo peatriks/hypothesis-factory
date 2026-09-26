@@ -26,6 +26,13 @@ Patrick gibt frei (Pull Request) oder lehnt ab. Das ist der einzige Weg, wie sic
 5. **Retro** in `retros/`: Vorhersage gegen Ergebnis, Gate-Entscheidungen, Vorschläge für `playbook/learning.md`
 6. **Learnings** mit Evidenz in `learnings.md`
 
+## Autonomer Loop
+
+Eine geplante Routine startet werktags einen Durchlauf nach `ops/LOOP.md`:
+Feedback aus Patricks PR-Reaktionen einsammeln, eine Backlog-Aufgabe als PR erledigen,
+montags eine Meta-Retro, die Änderungen am eigenen Protokoll vorschlägt (Label `self-change`).
+Patrick steuert ausschließlich über Merge, Schließen und Kommentare.
+
 ## Status
 
 Phase: **Manueller Pilot** (Start 26.09.2026). Nächste Schritte siehe `BACKLOG.md`.
