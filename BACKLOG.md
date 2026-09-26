@@ -1,31 +1,50 @@
 # Backlog
 
-Wird zu GitHub Issues, sobald das Repository steht. Owner: **P** = Patrick, **W** = Worker (Claude), **X** = extern.
+Owner: **P** = Patrick, **W** = Worker (Claude), **X** = extern.
 
-## Entscheidungen für Patrick (aus dem Abgleich beider Recherchen)
+## Getroffene Entscheidungen
+
+| Datum | Entscheidung | Konsequenz |
+|---|---|---|
+| 2026-09-26 | **Keine Interviews.** Direkter Weg zum Paid-Concept-Test | Gate 1 auf Basis von Desk-Evidenz und Review-Mining. Das "Warum" kommt aus Qualifizierungsfragen nach dem Opt-in. PR #1 (Interviewleitfaden) geschlossen |
+
+## Offene Entscheidungen für Patrick
 
 Details: `research/2026-09-26-abgleich-claude-chatgpt.md`
 
 | # | Entscheidung | Optionen | Betrifft |
 |---|---|---|---|
-| D1 | Welche Hypothesen gehen in die Interviews? | Claude: H1 + H2. ChatGPT: Käse (H2) + Deckelsystem (H6), Gemüse als Alternative. Vorschlag: H1, H2 und H6 in die Interviews, erst danach Gate 1 | Gate 1 |
-| D2 | Primärsignal EXP-001 | Reservierung (braucht Anwalt vorher) oder qualifizierter Opt-in, Reservierung erst in EXP-002 | `playbook/fixed.md` |
+| D1 | Welche Hypothesen gehen in EXP-001? | (a) 2 Arme nach Review-Mining auswählen; (b) 3 Arme H1, H2, H6 und der Markt entscheidet (etwa 1,5-faches Media-Budget). Vorschlag: (b), weil ohne Interviews der Test selbst die Priorisierung liefern muss | Gate 1 |
+| D2 | Primärsignal EXP-001 | Reservierung (braucht Anwalt vorher) oder qualifizierter Opt-in, Reservierung erst in EXP-002. Vorschlag: qualifizierter Opt-in, um nicht auf den Anwalt zu warten | `playbook/fixed.md` |
 | D3 | TikTok-Mindestbudget (Kampagne über 50 USD, Ad-Group über 20 USD pro Tag) in feste Regeln aufnehmen | ja / nein | `playbook/fixed.md` |
 | D4 | Erster Kanal | Meta, Pinterest oder TikTok, erst nach Kanal-Preflight im Konto | Gate 5 |
+| D5 | Media-Budget EXP-001 (Lifetime, gesamt) | Betrag festlegen | Gate 5 |
 
-## Jetzt (Pilot, vor dem ersten Test)
+## Kritischer Pfad zum ersten Paid-Test (Priorität für den Loop)
 
-| # | Aufgabe | Owner | Blockiert |
+Nur diese Aufgaben bringen den ersten Test näher. Reihenfolge = Priorität.
+
+| # | Aufgabe | Owner | Liefert |
 |---|---|---|---|
-| 1 | Tarif klären ("Claude Premium" = Team Premium Seat oder Max?), API-Key mit Ausgabenlimit anlegen | P | Automatisierung |
-| 2 | Review-Mining: 1- bis 3-Sterne-Reviews von etwa 10 Wettbewerbern clustern (Amazon.de, Reddit, Foren) | W | H4, Schärfung H1/H2 |
-| 3 | Wettbewerbsmatrix auf 30 bis 50 Einträge: beide Recherchen zusammenführen (u. a. IKEA 365+, Joseph Joseph, Rotho, Kilner, LocknLock, Pyrex neu aus ChatGPT), einheitliches Raster (Größe, Material, Footprint, Dichtung, Ersatzteile, UVP/Aktion). DE-Preise Caraway, OXO fehlen noch | W | Preisplausibilität |
-| 4 | Interviews je Job (Claude: 15 bis 20, ChatGPT: 10 bis 15 als Arbeitsziel), Mom-Test-Logik, für H6 Deckelinventar abfragen | P | Gate 1 |
-| 4a | Interviewleitfaden für H1, H2, H6 | W | #4 |
-| 4b | Käse: technischer Mechanismus für den Feuchte-Geruch-Kompromiss, Vergleich mit Kilner, Mepal, Rotho, Käsepapier | W, X (Produktentwickler) | H2 |
-| 5 | Anwalt: Template-Freigabe Konzeptseite, KI-Kennzeichnung, Reservierungsmodell | X | Live-Schaltung |
-| 6 | Shopify-Konzeptstore, Consent, Double Opt-in, Meta-Pixel nach Einwilligung | P | Test |
-| 7 | Schwellen für EXP-001 festlegen | P | Test |
+| K1 | Review-Mining: 1- bis 3-Sterne-Reviews und Forenbeiträge zu Käse-, Gemüse- und Deckel-Problemen (Amazon.de, Reddit, Foren), mit wörtlichen Zitaten und Datum. Ersatz für die Interviews | W | Gate-1-Evidenz, Sprache für Ads und Seiten |
+| K2 | Anwalts-Briefing: eine Seite mit konkreten Fragen zu Konzeptseite, KI-Kennzeichnung, Opt-in, Impressum, später Reservierung | W, dann X | Patrick muss nur weiterleiten |
+| K3 | Landingpage-Texte H1, H2, H6 in einem einheitlichen Template, mit freigegebenen Formulierungen, Preis, Konzepthinweis und 3 Qualifizierungsfragen nach dem Opt-in (heutige Lösung, letzter Vorfall, bisher ausgegebenes Geld) | W | Seite ist in 1 bis 2 Stunden baubar |
+| K4 | Ad-Texte und Bild-Briefing je Hypothese (2 Varianten je Arm), passend zur Seite | W | Creatives |
+| K5 | Setup-Checkliste Shopify-Konzeptstore: Consent, Double Opt-in, Pixel nach Einwilligung, Impressum, Datenschutz, Conversion-Event | W | Patrick arbeitet sie ab |
+| K6 | Vorab-Festlegung EXP-001 als Entwurf (Arme, Metriken, Abbruchregeln), Schwellen als Lücken für Patrick | W | Patrick füllt nur Zahlen aus |
+| K7 | Kanal-Preflight-Paket: pro Kanal Ad plus Landingpage zur Richtlinienprüfung im Konto | W, dann P | Kanalentscheidung D4 |
+| K8 | Shopify-Konzeptstore aufsetzen | P | Test |
+| K9 | Anwalt prüfen lassen | X | Live-Schaltung |
+| K10 | Ad-Konto, Budget, Aktivierung | P | Test läuft |
+
+## Zurückgestellt (erst nach EXP-001)
+
+| # | Aufgabe | Owner |
+|---|---|---|
+| 1 | Tarif klären, API-Key mit Ausgabenlimit | P |
+| 3 | Wettbewerbsmatrix auf 30 bis 50 Einträge | W |
+| 4b | Käse: technischer Mechanismus (Feuchte-Geruch-Kompromiss). Nur relevant, wenn H2 im Test gewinnt | W, X |
+| – | Interviews (verworfen, siehe Entscheidungen) | – |
 
 ## Offene Rechercheaufgaben (aus Caveats)
 
