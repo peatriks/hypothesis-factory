@@ -26,7 +26,7 @@ Nur diese Aufgaben bringen den ersten Test näher. Reihenfolge = Priorität.
 
 | # | Aufgabe | Owner | Liefert |
 |---|---|---|---|
-| K1 | Review-Mining: 1- bis 3-Sterne-Reviews und Forenbeiträge zu Käse-, Gemüse- und Deckel-Problemen (Amazon.de, Reddit, Foren), mit wörtlichen Zitaten und Datum. Ersatz für die Interviews | W | Gate-1-Evidenz, Sprache für Ads und Seiten |
+| K1 | Review-Mining: 1- bis 3-Sterne-Reviews und Forenbeiträge zu Käse-, Gemüse- und Deckel-Problemen (Amazon.de, Reddit, Foren), mit wörtlichen Zitaten und Datum. Ersatz für die Interviews. **Blockiert:** Netzwerkfreigabe der Umgebung erlaubt Amazon, Reddit, Foren nicht; braucht Patrick: Domains freigeben oder breitere Zugriffsstufe | W | Gate-1-Evidenz, Sprache für Ads und Seiten |
 | K2 | Anwalts-Briefing: eine Seite mit konkreten Fragen zu Konzeptseite, KI-Kennzeichnung, Opt-in, Impressum, später Reservierung | W, dann X | Patrick muss nur weiterleiten |
 | K3 | Landingpage-Texte H1, H2, H6 in einem einheitlichen Template, mit freigegebenen Formulierungen, Preis, Konzepthinweis und 3 Qualifizierungsfragen nach dem Opt-in (heutige Lösung, letzter Vorfall, bisher ausgegebenes Geld) | W | Seite ist in 1 bis 2 Stunden baubar |
 | K4 | Ad-Texte und Bild-Briefing je Hypothese (2 Varianten je Arm), passend zur Seite | W | Creatives |
