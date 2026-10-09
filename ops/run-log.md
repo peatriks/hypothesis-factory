@@ -13,3 +13,4 @@
 | 2026-10-06 | – (Gegendruck) | wartet auf Review | – | P (Review PR #2, #3, #4) | Fünfter Lauf in Folge ohne Aktivität (seit 30.09.). PRs seit 7 bis 10 Tagen unkommentiert |
 | 2026-10-07 | – (Gegendruck) | wartet auf Review | – | P (Review PR #2, #3, #4) | Sechster Lauf in Folge ohne Aktivität (seit 30.09.) |
 | 2026-10-08 | – (Gegendruck) | wartet auf Review | – | P (Review PR #2, #3, #4) | Siebter Lauf in Folge ohne Aktivität (seit 30.09.) |
+| 2026-10-09 | – (Gegendruck) | wartet auf Review | – | P (Review PR #2, #3, #4) | Achter Lauf in Folge ohne Aktivität (seit 30.09.). Meta-Retro am Mo 12.10. fällig |
