@@ -23,3 +23,4 @@
 | 2026-10-20 | – (Gegendruck) | wartet auf Review | – | P (Review PR #2, #3, #4) | 15. Lauf in Folge ohne Aktivität (seit 30.09.) |
 | 2026-10-21 | – (Gegendruck) | wartet auf Review | – | P (Review PR #2, #3, #4) | 16. Lauf in Folge ohne Aktivität (seit 30.09.) |
 | 2026-10-22 | – (Gegendruck) | wartet auf Review | – | P (Review PR #2, #3, #4) | 17. Lauf in Folge ohne Aktivität (seit 30.09.) |
+| 2026-10-23 | – (Gegendruck) | wartet auf Review | – | P (Review PR #2, #3, #4) | 18. Lauf in Folge ohne Aktivität (seit 30.09.) |
