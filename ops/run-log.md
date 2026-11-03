@@ -30,3 +30,4 @@
 | 2026-10-29 | – (Gegendruck) | wartet auf Review | – | P (Review PR #2, #3, #4) | 22. Lauf in Folge ohne Aktivität (seit 30.09.) |
 | 2026-10-30 | – (Gegendruck) | wartet auf Review | – | P (Review PR #2, #3, #4) | 23. Lauf in Folge ohne Aktivität (seit 30.09.) |
 | 2026-11-02 | – (Gegendruck) | wartet auf Review | – | P (Review PR #2, #3, #4) | 24. Lauf in Folge ohne Aktivität (seit 30.09.). Meta-Retro (Montag) nur als Notiz: unverändert |
+| 2026-11-03 | – (Gegendruck) | wartet auf Review | – | P (Review PR #2, #3, #4) | 25. Lauf in Folge ohne Aktivität (seit 30.09.) |
